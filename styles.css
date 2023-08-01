@@ -1,0 +1,54 @@
+main{
+    display: flex;
+    background-color: #EAC696;
+    border-radius: 10px;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#image{
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;    
+}
+
+#img-caption{
+    text-align: center;
+    font-size: small;
+}
+
+h1{
+    padding-top: 2rem;
+}
+
+.year, h1, h4, h3 {
+    font-weight: 700;
+    color:#65451F;
+    text-align: center;
+}
+
+#img-div{
+    padding: 10px;
+    background-color: #C8AE7D;
+    border-radius: 10px;
+}
+
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li{
+    padding: 10px 0;
+}
+
+blockquote{
+    max-width: 545px;
+    font-style: italic;
+    text-align: left;
+    margin: 20px auto;
+    padding-bottom: 2rem;
+}
